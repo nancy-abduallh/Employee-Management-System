@@ -42,7 +42,7 @@ php artisan migrate
 php artisan db:seed
 
 # Login credentials
-Admin Account: ['email' => 'ganeshkhadka46@gmail.com', 'password' => 'admin123'] <br>
-Employee Account: ['email' => 'employee1@gmail.com', 'password' => 'employee123'] 
+Admin Account: ['email' => 'nancyabdo857@gmail.com', 'password' => 'admin123'] <br>
+Employee Account: ['email' => 'amr@gmail.com', 'password' => 'employee123'] 
 
 
